@@ -1,0 +1,42 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.App{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(175, 191, 190, 0.775);
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.chart1{
+width: 500px;
+height: 350px;
+  margin:20px 30px;
+  background-color: aliceblue;
+  border: 1px solid,gray;
+  border-radius: 5px;
+
+}
+
+.chart2{
+width: 350px;
+height: 350px;
+margin: 20px;
+background-color: aliceblue;
+border: 1px solid,gray;
+border-radius: 5px;
+}
+
+.chart3{
+  width: 350px;
+  height: 350px;
+  margin: 20px;
+  background-color: aliceblue;
+  border: 1px solid,gray;
+  border-radius: 5px;
+}
